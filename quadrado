@@ -1,0 +1,12 @@
+public class quadrado {
+	    public static void main(String[] args) {
+	
+	        int A = 7;
+	        int B = -10;
+	        int C = 13;
+	 
+	        int somaQuadrados = (A * A) + (B * B) + (C * C);
+
+	        System.out.println("A soma dos quadrados de A, B e C é: " + somaQuadrados);
+	    }
+	}
